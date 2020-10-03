@@ -23,10 +23,9 @@
     "emailVerificationSubject": "Your verification code",
     "emailVerificationMessage": "Your verification code is {####}",
     "defaultPasswordPolicy": false,
-    "passwordPolicyMinLength": 8,
+    "passwordPolicyMinLength": 10,
     "passwordPolicyCharacters": [
         "Requires Lowercase",
-        "Requires Uppercase",
         "Requires Numbers",
         "Requires Symbols"
     ],
